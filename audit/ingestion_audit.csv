@@ -1,0 +1,11 @@
+run_id,source_system,database,table_name,rows_extracted,s3_key,status,error_message,started_at,completed_at
+505d1a0d-cbfe-4d7d-be97-53adbc5892e6,crm,crm-db,Customers,5,crm/customers/2026-08-11/customers.csv,SUCCESS,,2026-08-11 11:55:20.950262+00:00,2026-08-11 11:55:21.610951+00:00
+505d1a0d-cbfe-4d7d-be97-53adbc5892e6,crm,crm-db,Addresses,5,crm/addresses/2026-08-11/addresses.csv,SUCCESS,,2026-08-11 11:55:21.614601+00:00,2026-08-11 11:55:22.122520+00:00
+505d1a0d-cbfe-4d7d-be97-53adbc5892e6,erp,erp_db,Products,10,erp/products/2026-08-11/products.csv,SUCCESS,,2026-08-11 11:55:22.133532+00:00,2026-08-11 11:55:22.632925+00:00
+505d1a0d-cbfe-4d7d-be97-53adbc5892e6,erp,erp_db,Suppliers,5,erp/suppliers/2026-08-11/suppliers.csv,SUCCESS,,2026-08-11 11:55:22.637840+00:00,2026-08-11 11:55:23.099185+00:00
+505d1a0d-cbfe-4d7d-be97-53adbc5892e6,erp,erp_db,Inventory,10,erp/inventory/2026-08-11/inventory.csv,SUCCESS,,2026-08-11 11:55:23.104103+00:00,2026-08-11 11:55:23.603596+00:00
+505d1a0d-cbfe-4d7d-be97-53adbc5892e6,ecommerce,ecommerce_db,Orders,5,ecommerce/orders/2026-08-11/orders.csv,SUCCESS,,2026-08-11 11:55:23.616700+00:00,2026-08-11 11:55:24.138854+00:00
+505d1a0d-cbfe-4d7d-be97-53adbc5892e6,ecommerce,ecommerce_db,OrderItems,8,ecommerce/orderitems/2026-08-11/orderitems.csv,SUCCESS,,2026-08-11 11:55:24.143647+00:00,2026-08-11 11:55:24.645044+00:00
+505d1a0d-cbfe-4d7d-be97-53adbc5892e6,ecommerce,ecommerce_db,Payments,5,ecommerce/payments/2026-08-11/payments.csv,SUCCESS,,2026-08-11 11:55:24.652106+00:00,2026-08-11 11:55:25.143180+00:00
+505d1a0d-cbfe-4d7d-be97-53adbc5892e6,marketing,marketing_db,Campaigns,4,marketing/campaigns/2026-08-11/campaigns.csv,SUCCESS,,2026-08-11 11:55:25.146588+00:00,2026-08-11 11:55:25.677808+00:00
+505d1a0d-cbfe-4d7d-be97-53adbc5892e6,marketing,marketing_db,CampaignEvents,9,marketing/campaignevents/2026-08-11/campaignevents.csv,SUCCESS,,2026-08-11 11:55:25.691279+00:00,2026-08-11 11:55:26.218771+00:00

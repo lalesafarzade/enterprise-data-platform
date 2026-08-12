@@ -1,0 +1,38 @@
+{
+  "sources": [
+    {
+      "system": "crm",
+      "database": "crm-db",
+      "tables": [
+        "Customers",
+        "Addresses"
+      ]
+    },
+    {
+      "system": "erp",
+      "database": "erp_db",
+      "tables": [
+        "Products",
+        "Suppliers",
+        "Inventory"
+      ]
+    },
+    {
+      "system": "ecommerce",
+      "database": "ecommerce_db",
+      "tables": [
+        "Orders",
+        "OrderItems",
+        "Payments"
+      ]
+    },
+    {
+      "system": "marketing",
+      "database": "marketing_db",
+      "tables": [
+        "Campaigns",
+        "CampaignEvents"
+      ]
+    }
+  ]
+}
