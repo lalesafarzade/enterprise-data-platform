@@ -1,5 +1,6 @@
 # enterprise-data-platform
 
+```text
 SQL Server
     │
     ▼
